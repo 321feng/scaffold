@@ -7,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/321feng/scaffold.git"
+  },
+  "keywords": [
+    "scaffold"
+  ],
+  "bugs": {
+    "url": "https://github.com/321feng/scaffold/issues"
+  },
+  "homepage": "https://github.com/321feng/scaffold"
 }
